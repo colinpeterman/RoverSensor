@@ -1,0 +1,11 @@
+How did you test your code?
+
+I started out first by making sure my code was working correctly with the provided file. Then
+I created files with different lengths of a state space as well as boulders places in different 
+locations. I wanted to make sure that it stopped with different things at the end so I made files
+that has two boulders at the end, no boulders at the end, and then just one boulder at the end. After
+some fixing some issues I found testing it now works with anything at the end as well as any boulders 
+throughout the problem.
+
+A way I made sure they were correct was by drawing out the space and following the positions and actions
+to make sure it was the correct sequence and grabbed the soil as well correctly
